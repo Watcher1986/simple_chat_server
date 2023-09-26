@@ -1,0 +1,20 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "Simple Web chat server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "socket.io",
+    "node.js",
+    "express"
+  ],
+  "author": "deniss2007@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
